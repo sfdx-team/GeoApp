@@ -1,0 +1,218 @@
+[
+    [
+        "/home/greg/sfdx/GeoApp/force-app",
+        {
+            "sourcePath": "/home/greg/sfdx/GeoApp/force-app",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1546780445727,
+            "changeTime": 1546780445727,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/home/greg/sfdx/GeoApp/force-app/main",
+        {
+            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1546780445727,
+            "changeTime": 1546780445727,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/greg/sfdx/GeoApp/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1546838105312,
+            "changeTime": 1546838105312,
+            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+        }
+    ],
+    [
+        "/home/greg/sfdx/GeoApp/force-app/main/default/aura",
+        {
+            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1546780445727,
+            "changeTime": 1546780445727,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/greg/sfdx/GeoApp",
+        {
+            "sourcePath": "/home/greg/sfdx/GeoApp",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1546780775473,
+            "changeTime": 1546780775473,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/greg/sfdx/GeoApp/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1546838105220,
+            "changeTime": 1546838105220,
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836"
+        }
+    ],
+    [
+        "/home/greg/sfdx/GeoApp/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1546838105280,
+            "changeTime": 1546838105280,
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+        }
+    ],
+    [
+        "/home/greg/sfdx/GeoApp/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1546838105288,
+            "changeTime": 1546838105288,
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+        }
+    ],
+    [
+        "/home/greg/sfdx/GeoApp/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1546838105296,
+            "changeTime": 1546838105296,
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+        }
+    ],
+    [
+        "/home/greg/sfdx/GeoApp/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1546838105304,
+            "changeTime": 1546838105304,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+        }
+    ],
+    [
+        "/home/greg/sfdx/GeoApp/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 405,
+            "modifiedTime": 1546838105316,
+            "changeTime": 1546838105316,
+            "contentHash": "ce861c076f7246af60f125a53a2e073bbbfc1114"
+        }
+    ],
+    [
+        "/home/greg/sfdx/GeoApp/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1546838105220,
+            "changeTime": 1546838105220,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+        }
+    ],
+    [
+        "/home/greg/sfdx/GeoApp/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1546838105216,
+            "changeTime": 1546838105216,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/home/greg/sfdx/GeoApp/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1546838105216,
+            "changeTime": 1546838105216,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/home/greg/sfdx/GeoApp/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1546838105304,
+            "changeTime": 1546838105304,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "/home/greg/sfdx/GeoApp/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1546838105316,
+            "changeTime": 1546838105316,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
