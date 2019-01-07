@@ -32,28 +32,28 @@
     [
         "/home/greg/sfdx/GeoApp/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1546839677413,
             "changeTime": 1546839677413,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "/home/greg/sfdx/GeoApp/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1546839796739,
-            "changeTime": 1546839796739,
-            "isWorkspace": false,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
+            "modifiedTime": 1546839320433,
+            "changeTime": 1546839320433,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1546839436752,
+            "changeTime": 1546839436752,
+            "contentHash": "9900117dc3d98d97b7186a47572f5f8aff82d5e1",
             "isMetadataFile": false,
-            "size": 182,
-            "modifiedTime": 1546840034792,
-            "changeTime": 1546840034792,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
+            "state": "u"
         }
     ],
     [
@@ -385,352 +385,92 @@
     [
         "/home/greg/sfdx/GeoApp/force-app/main/default/tabs/My_First_Component.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/tabs/My_First_Component.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 316,
             "modifiedTime": 1546839677401,
             "changeTime": 1546839677401,
-            "contentHash": "2752c7afad61d4f437880d527bca79f6860fd854",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "2752c7afad61d4f437880d527bca79f6860fd854"
         }
     ],
     [
         "/home/greg/sfdx/GeoApp/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 18202,
             "modifiedTime": 1546839677421,
             "changeTime": 1546839677421,
-            "contentHash": "2c32a93f5119ca7b18b4fb4b0f1caf92f1732159",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "2c32a93f5119ca7b18b4fb4b0f1caf92f1732159"
         }
     ],
     [
         "/home/greg/sfdx/GeoApp/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5019,
             "modifiedTime": 1546839677425,
             "changeTime": 1546839677425,
-            "contentHash": "3406b93eacf57522935a6044ea9a0207c8ef289c",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "3406b93eacf57522935a6044ea9a0207c8ef289c"
         }
     ],
     [
         "/home/greg/sfdx/GeoApp/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4679,
             "modifiedTime": 1546839677429,
             "changeTime": 1546839677429,
-            "contentHash": "5a3bc364656022f8d92cd3f2d7c289594727ed85",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "5a3bc364656022f8d92cd3f2d7c289594727ed85"
         }
     ],
     [
         "/home/greg/sfdx/GeoApp/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4683,
             "modifiedTime": 1546839677433,
             "changeTime": 1546839677433,
-            "contentHash": "cafb9d6acdaca6774f021813a3f7681b9778d87c",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "cafb9d6acdaca6774f021813a3f7681b9778d87c"
         }
     ],
     [
         "/home/greg/sfdx/GeoApp/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1546839677401,
             "changeTime": 1546839677401,
-            "contentHash": "0778149933839105f639471f95ba952f311b8a1b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "0778149933839105f639471f95ba952f311b8a1b"
         }
     ],
     [
         "/home/greg/sfdx/GeoApp/force-app/main/default/profiles",
         {
+            "state": "u",
             "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/profiles",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1546839677433,
             "changeTime": 1546839677433,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 4096,
-            "modifiedTime": 1546839796743,
-            "changeTime": 1546839796743,
-            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 4096,
-            "modifiedTime": 1546839709586,
-            "changeTime": 1546839709586,
-            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountList.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountList.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1546839796743,
-            "changeTime": 1546839796743,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountList.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountList.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 339,
-            "modifiedTime": 1546839806443,
-            "changeTime": 1546839806443,
-            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 243,
-            "modifiedTime": 1546839796739,
-            "changeTime": 1546839796739,
-            "contentHash": "9e9f03a612d61ab979166f75892ca34630005828"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountList.css",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountList.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 111,
-            "modifiedTime": 1546840034792,
-            "changeTime": 1546840034792,
-            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountList.design",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountList.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1546839796743,
-            "changeTime": 1546839796743,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountList.svg",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountList.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1546839796743,
-            "changeTime": 1546839796743,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountListController.js",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountListController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 255,
-            "modifiedTime": 1546839905953,
-            "changeTime": 1546839905953,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountListHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountListHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1546839796743,
-            "changeTime": 1546839796743,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1546839796743,
-            "changeTime": 1546839796743,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1546839709586,
-            "changeTime": 1546839709586,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 120,
-            "modifiedTime": 1546839724458,
-            "changeTime": 1546839724458,
-            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 247,
-            "modifiedTime": 1546839709586,
-            "changeTime": 1546839709586,
-            "contentHash": "cd6b85d39687bc3e7ff7e8d01d139cec764fe6db"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 168,
-            "modifiedTime": 1546839736814,
-            "changeTime": 1546839736814,
-            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItem.design",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItem.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1546839709586,
-            "changeTime": 1546839709586,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1546839709586,
-            "changeTime": 1546839709586,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1546839709586,
-            "changeTime": 1546839709586,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1546839709586,
-            "changeTime": 1546839709586,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/home/greg/sfdx/GeoApp/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1546839709586,
-            "changeTime": 1546839709586,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
