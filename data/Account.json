@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Domenico",
+            "Location__Latitude__s": 10,
+            "Location__Longitude__s": 11
+        }
+    ]
+}
